@@ -1,4 +1,4 @@
-# Conccurency Practice
+# Concurrency Practice
 ### [원티드 프리온보딩 iOS 챌린지 사전 과제](https://yagomacademy.notion.site/iOS-2-3f670cc9788f4384b000bfe940447d59)
 
 ### 구현 기능
